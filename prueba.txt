@@ -1,0 +1,7 @@
+{'nombre': 'arroz', 'cantidad': 1.0, 'precio': 10.0, 'montoxpagar': 10.0}
+{'nombre': 'pera', 'cantidad': 2.0, 'precio': 10.0, 'montoxpagar': 20.0}
+{'nombre': 'manzana', 'cantidad': 3.0, 'precio': 5.0, 'montoxpagar': 15.0}
+{'nombre': 'pan', 'cantidad': 2.0, 'precio': 10.0, 'montoxpagar': 20.0}
+{'nombre': 'mani', 'cantidad': 2.0, 'precio': 10.0, 'montoxpagar': 20.0}
+{'nombre': 'pan', 'cantidad': 2.0, 'precio': 1.0, 'montoxpagar': 2.0}
+{'nombre': 'arroz', 'cantidad': 2.0, 'precio': 10.0, 'montoxpagar': 20.0}
