@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "arroz",
+        "cantidad": 2.0,
+        "precio": 10.0,
+        "monto_pagar": 20.0
+    },
+    {
+        "nombre": "azucar",
+        "cantidad": 2.0,
+        "precio": 50.0,
+        "monto_pagar": 100.0
+    },
+    {
+        "nombre": "Pan integral",
+        "cantidad": 5,
+        "precio": 12,
+        "monto_pagar": 60
+    }
+]

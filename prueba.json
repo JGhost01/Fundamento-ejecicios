@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "arroz",
+        "cantidad": 2.0,
+        "precio": 10.0,
+        "montoxpagar": 20.0
+    },
+    {
+        "nombre": "pan",
+        "cantidad": 5.0,
+        "precio": 5.0,
+        "montoxpagar": 25.0
+    },
+    {
+        "nombre": "queso",
+        "cantidad": 1,
+        "precio": 10,
+        "montoxpagar": 10
+    }
+]

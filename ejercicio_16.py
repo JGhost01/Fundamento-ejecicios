@@ -25,9 +25,9 @@ def eliminar():
 
 def guardar():
     fichero_json = open('prueba.json', 'w')
-   str_json = json.dumps(prueba_json, indent=4)
-   fichero_json.write(str_json)
-   fichero_json.close()
+    str_json = json.dumps(prueba_json, indent=4)
+    fichero_json.write(str_json)
+    fichero_json.close()
 
 def mostrar_canasta():
     for item in prueba_json:
@@ -54,5 +54,3 @@ agregar(nombre = 'queso', cantidad = 1, precio = 10)
 guardar()
 print("Se han guardado los cambios!")
 
-for articulos in prueba_json:
-    print(articulos)
