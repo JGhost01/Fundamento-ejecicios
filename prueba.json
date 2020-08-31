@@ -16,5 +16,11 @@
         "cantidad": 1,
         "precio": 10,
         "montoxpagar": 10
+    },
+    {
+        "nombre": "queso",
+        "cantidad": 1,
+        "precio": 10,
+        "montoxpagar": 10
     }
 ]

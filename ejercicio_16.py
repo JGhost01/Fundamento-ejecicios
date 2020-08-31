@@ -15,13 +15,13 @@ def buscar(nombre):
 def agregar(**datos):
     datos['montoxpagar'] = datos['cantidad'] * datos['precio']
     prueba_json.append(datos)
-    pass
+
 
 def eliminar():
     for i in range((len(prueba_json) - 1)):
         if prueba_json[i]['nombre'].lower() == nombre.lower():
             del prueba_json[i]
-    pass
+
 
 def guardar():
     fichero_json = open('prueba.json', 'w')
@@ -38,8 +38,8 @@ def mostrar_canasta():
 # mostrar_canasta()
 
 
-#eliminar('papa')
-#print("Se ha eliminado un item a la lista")
+eliminar('queso')
+print("Se ha eliminado un item a la lista")
 
 # mostrar_canasta()
 #articulos = buscar('peras')
@@ -49,7 +49,7 @@ def mostrar_canasta():
 #else:
  #   print("no encontrado")
 
-agregar(nombre = 'queso', cantidad = 1, precio = 10)
+#agregar(nombre = 'queso', cantidad = 1, precio = 10)
 
 guardar()
 print("Se han guardado los cambios!")
