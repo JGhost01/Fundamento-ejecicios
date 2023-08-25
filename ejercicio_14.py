@@ -6,7 +6,7 @@
 lista_compras = []
 
 while True:
-    articulos_input = input("introduce los articulos:")
+    articulos_input = input("introduce los articulos deseados:")
     
     if articulos_input == "parar":
             break
